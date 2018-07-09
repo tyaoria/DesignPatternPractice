@@ -1,2 +1,3 @@
 # DesignPatternPractice
 デザインパターン学習用リポジトリ
+それ以外も雑多にぶち込む
